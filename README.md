@@ -1,6 +1,6 @@
 # PulseKopf
 
-A Kubernetes controller that collects personal health metrics and exposes them on the cluster.
+A Kubernetes controller that collects personal health metrics from a smart ring and exposes them on the cluster.
 
 ## Folder structure
 
